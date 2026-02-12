@@ -1,0 +1,58 @@
+export const initialStudents = [
+  {
+    usn: "CS21B001",
+    name: "Rohit Sharma",
+    year1: 78,
+    year2: 82,
+    year3: 85,
+  },
+  {
+    usn: "CS21B002",
+    name: "Priya Patel",
+    year1: 85,
+    year2: 88,
+    year3: 90,
+  },
+  {
+    usn: "CS21B003",
+    name: "Amit Kumar",
+    year1: 72,
+    year2: 75,
+    year3: 80,
+  },
+  {
+    usn: "CS21B004",
+    name: "Sneha Reddy",
+    year1: 90,
+    year2: 92,
+    year3: 95,
+  },
+  {
+    usn: "CS21B005",
+    name: "Rahul Verma",
+    year1: 65,
+    year2: 70,
+    year3: 75,
+  },
+  {
+    usn: "CS21B006",
+    name: "Ananya Singh",
+    year1: 88,
+    year2: 85,
+    year3: 89,
+  },
+  {
+    usn: "CS21B007",
+    name: "Vikram Joshi",
+    year1: 76,
+    year2: 79,
+    year3: 82,
+  },
+  {
+    usn: "CS21B008",
+    name: "Kavya Nair",
+    year1: 92,
+    year2: 94,
+    year3: 96,
+  },
+];
